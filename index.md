@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## 欢迎来到 宝宝乳牙脱落记录工具
 
-You can use the [editor on GitHub](https://github.com/jichungan9498/MyBabyTeethFallOffRecordTool/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+不知道你是否也注意到自己家宝宝乳牙的脱落情况？宝宝从出生到快速健康成长的过程中，乳牙也在不断发生变化，而我们作为宝宝最亲近的父母，是不是也很关心宝宝的牙齿健康状况？当宝宝乳牙出现脱落时，我们应该密切关注宝宝的牙龈状况，是否哭闹不肯进食。我们可以将宝宝的这些重要信息记录起来，帮助宝宝牙齿将康。我们可以记录宝宝牙齿脱落的位置，例如门牙，牙槽等。脱落的时间，乳牙脱落的数量等。我们可以将这些信息收藏起来，整理成记录列表，帮助宝宝分析和养成良好的习惯，保护牙齿健康，防止乳牙异常脱落的情况发生。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+如果您遇到什么需要解答的问题，请发送您的问题到以下邮箱。
 
-```markdown
-Syntax highlighted code block
+我们将第一时间为您解答。
 
-# Header 1
-## Header 2
-### Header 3
+### 邮箱地址:  jichungan9498@163.com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jichungan9498/MyBabyTeethFallOffRecordTool/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+谢谢！
